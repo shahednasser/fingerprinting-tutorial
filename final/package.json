@@ -1,0 +1,27 @@
+{
+  "name": "fingerprint-tutorial",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fingerprintjs/fingerprintjs-pro": "^3.5.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "faker": "^5.5.3",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-bootstrap": "^2.0.0-beta.4",
+    "react-dark-mode-toggle": "^0.2.0",
+    "react-dom": "17.0.2",
+    "sqlite3": "^5.0.2"
+  },
+  "devDependencies": {
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.0.1"
+  }
+}

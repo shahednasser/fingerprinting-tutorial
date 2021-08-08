@@ -1,0 +1,43 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+.card,
+.card-footer {
+  transition: all .2s;
+}
+
+.dark {
+  background-color: #353535;
+}
+
+.dark .card {
+  background-color: #282d31;
+  color: #fff;
+}
+
+.dark .card-footer {
+  background-color: #1c1f23 !important;
+}
+
+.dark .card-footer .text-muted {
+  color: #fff !important;
+}
+
+.dark svg {
+  color: #fff;
+}
