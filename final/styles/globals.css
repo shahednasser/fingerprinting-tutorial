@@ -37,7 +37,3 @@ body,
 .dark .card-footer .text-muted {
   color: #fff !important;
 }
-
-.dark svg {
-  color: #fff;
-}
