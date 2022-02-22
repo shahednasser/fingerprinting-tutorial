@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@fingerprintjs/fingerprintjs-pro": "^3.5.0",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^5.0.2",
     "faker": "^5.5.3",
     "next": "12.1.0",
